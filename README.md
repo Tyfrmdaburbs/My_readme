@@ -91,11 +91,7 @@ Survive waves of spawning zombies and eliminate as many enemies as possible befo
 ---
 
 ## 🔊 **Sound Effects & Particles**
-### **Sound Effects**
-- Gunshot sound when firing  
-- Zombie growl or hit sound  
-- Game-over sound effect  
-(Added through Unity’s AudioSource component)
+n/a
 
 ### **Particle Effects**
 - Muzzle flash on gun fire  
